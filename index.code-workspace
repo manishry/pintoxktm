@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "/var/www/cinepati"
+		},
+		{
+			"path": "/var/www/blog"
+		}
+	],
+	"settings": {}
+}
